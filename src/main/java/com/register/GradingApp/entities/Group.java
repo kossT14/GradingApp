@@ -9,7 +9,7 @@ import java.util.Set;
  * @author cvoinea
  */
 @Entity
-@Table(name = "group")
+@Table(name = "groups")
 public class Group {
 
     public enum Domain {
